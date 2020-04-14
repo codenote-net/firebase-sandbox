@@ -1,0 +1,2 @@
+# firebase-sandbox
+Firebase Sandbox 🔥
